@@ -8,7 +8,7 @@ class CreateEventsTable extends Migration
 {
     /**
      * Run the migrations.
-     *
+     * Prueba
      * @return void
      */
     public function up()
